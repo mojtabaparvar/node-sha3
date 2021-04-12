@@ -44,6 +44,6 @@
     "nyc": "15.1.0"
   },
   "dependencies": {
-    "buffer": "6.0.3"
+    "buffer": "4.0.0"
   }
 }
